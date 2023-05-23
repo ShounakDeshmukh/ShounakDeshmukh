@@ -6,18 +6,18 @@ I'm a Rustacean and AI/ML enthusiast and occasional UI/UX Designer. I'm in colle
 ### Languages and Tools
 #
 
-<img width=35px height=35px style=padding-right:10px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img width=35px height=35px style=padding-right:10px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"/>
-<img width=35px height=35px style=padding-right:10px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img width=35px height=35px style=padding-right:10px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-<img width=35px height=35px style=padding-right:10px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-<img width=35px height=35px style=padding-right:10px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img width=35px height=35px style=padding-right:10px  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />       
-<img width=35px height=35px style=padding-right:10px  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-<img width=35px height=35px style=padding-right:10px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
-<img width=35px height=35px style=padding-right:10px  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-<img width=35px height=35px style=padding-right:10px  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img width=35px height=35px style=padding-right:10px  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align=left width=35px height=35px style=padding-right:10px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align=left width=35px height=35px style=padding-right:10px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"/>
+<img align=left width=35px height=35px style=padding-right:10px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align=left width=35px height=35px style=padding-right:10px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+<img align=left width=35px height=35px style=padding-right:10px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+<img align=left width=35px height=35px style=padding-right:10px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align=left width=35px height=35px style=padding-right:10px  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />       
+<img align=left width=35px height=35px style=padding-right:10px  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+<img align=left width=35px height=35px style=padding-right:10px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
+<img align=left width=35px height=35px style=padding-right:10px  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+<img align=left width=35px height=35px style=padding-right:10px  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align=left width=35px height=35px style=padding-right:10px  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
 #
 
