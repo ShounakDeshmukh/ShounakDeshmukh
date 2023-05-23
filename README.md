@@ -18,6 +18,7 @@ I'm a Rustacean and AI/ML enthusiast and occasional UI/UX Designer. I'm in colle
 <img align=left width=35px height=35px style=padding-right:10px  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
 <img align=left width=35px height=35px style=padding-right:10px  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align=left width=35px height=35px style=padding-right:10px  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<br>
 
 #
 
